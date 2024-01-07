@@ -47,8 +47,4 @@ Born2beroot is a project as part of the 42 Cursus at 1337, focusing on virtualiz
 ## Additional Information
 
 - This project is part of the 42 Cursus at 1337.
-- Developed by [Your Name].
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
